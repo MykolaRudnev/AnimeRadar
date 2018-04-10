@@ -1,1 +1,1 @@
-# RemindMe-Project-# AnimeRadar
+# AnimeRadar
