@@ -19,4 +19,4 @@ Firebase database ;
 Firebase test Lab ;
 Picasso ;
 Firebase Test Lab ;
-The same standard Android Support libraries were used, which used graphic elements such as Design, Recyclerview, Cardview.
+The same standard Android Support libraries was used, which used graphic elements such as Design, Recyclerview, Cardview.
